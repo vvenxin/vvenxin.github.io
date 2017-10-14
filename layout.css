@@ -3,7 +3,13 @@ body {
 }
 
 div {
-    max-width: 500px;
+    max-width: 600px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+img {
+    display: block;
     margin: auto;
 }
 
@@ -18,4 +24,20 @@ p {
     color: #646464;
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
+}
+
+a:link {
+    color: #7FCFC7;
+}
+
+a:visited {
+    color: #336368;
+}
+
+a:hover {
+    color: #A4C8C4;
+}
+
+a:active {
+    color: #336368;
 }
