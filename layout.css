@@ -1,9 +1,10 @@
 body {
     background-color: #FCFCFC;
-    margin-top: 300px;
-    margin-bottom: 300px;
-    margin-right: 60px;
-    margin-left: 60px;
+}
+
+div {
+    max-width: 500px;
+    margin: auto;
 }
 
 h1 {
@@ -17,5 +18,4 @@ p {
     color: #646464;
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
-    margin-left: 500px;
 }
