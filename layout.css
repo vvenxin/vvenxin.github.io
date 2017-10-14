@@ -1,5 +1,9 @@
 body {
     background-color: #FCFCFC;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-right: 60px;
+    margin-left: 60px;
 }
 
 h1 {
@@ -12,6 +16,6 @@ h1 {
 p {
     color: #646464;
     font-family: 'Open Sans', sans-serif;
-    text-align: center;
     font-size: 20px;
+    margin-left: 500px;
 }
