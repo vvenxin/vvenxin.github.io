@@ -15,14 +15,14 @@ div {
 img {
     display: block;
     margin: auto;
-    width: 25%
+    width: 35%
 }
 
 h1 {
     font-family: 'Abril Fatface', cursive;
     color: #A4C8C4;
     text-align: center;
-    font-size: 3.5rem;
+    font-size: 4rem;
 }
 
 h2 {
